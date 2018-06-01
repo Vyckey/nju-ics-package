@@ -1,0 +1,5 @@
+#
+get-docker.sh: script installing stable docker-ce
+Dockerfile: Dockerfile is the configuration file used to build a Docker image. 
+
+web document: https://nju-ics.gitbooks.io/ics2017-programming-assignment/content/
